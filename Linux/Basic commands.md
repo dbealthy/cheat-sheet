@@ -52,15 +52,6 @@
 
 >`ls -l | sed "s/[aeio]/u/g"` - replace all vowels of  listed dirs to 'u'
 
-### Miscellaneous
-`man [command]` - open command's manual
-`clear`, **ctrl + L** - clear termial screen
-`history` - shows all commands history in termial
-`!number` - runs command from history by number
-`!!` - run last command that was used
-`date` - shows current date
-`cal` - shows calendar
-`bc` - calculator
 ### Kill programms
 `kill programmname` - kills instance of programm
 `killall programmname` - kill all instances of programm
@@ -70,3 +61,13 @@
 ### Internet
 `ping google.com` - check internet connection by pinging
 `wget https://somelinux.com/new-release.iso` - download
+
+### Miscellaneous
+`man [command]` - open command's manual
+`clear`, **ctrl + L** - clear termial screen
+`history` - shows all commands history in termial
+`!number` - runs command from history by number
+`!!` - run last command that was used
+`date` - shows current date
+`cal` - shows calendar
+`bc` - calculator
