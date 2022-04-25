@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git.md",
+            "file": "Python libraries.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "Python libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,8 @@
   },
   "active": "827a5e349c279305",
   "lastOpenFiles": [
+    "Python libraries.md",
+    "TestFile.md",
     "Git.md",
     "Linux/Basic commands.md",
     "Linux/Crontab.md",
@@ -111,8 +113,6 @@
     "Linux/Bashrc.md",
     "TODO Work/Today Kanban.md",
     "Gick dict.md",
-    "Lounch on start python scripts.md",
-    "Programming Patterns.md",
-    "SQL.md"
+    "Lounch on start python scripts.md"
   ]
 }
