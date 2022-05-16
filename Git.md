@@ -25,19 +25,28 @@ Github - website and echosistem, backend that is integrated with git.
 7. Commit .gitignore file
 >**`git commit -m ".gitignore file added"`**
 
-8. Show branches. Current branch is marked with * simbol (**master** branch by default)
-> **`git branch`**
-9. Another developer should not add changes to master branch, but create hist branch
-> **`git branch newBranchName`**
-10. Delete branch
-> **`git branch -D branchName`** 
-11. Switch to another branch
->**`git cheackout branchName`**
-12. Create a new branch and switch to it
->**`git branch -b newBranchName`**
-13. Merge/Join branches "myBranch" and "master" from master branch
->**`git merge myBranch`**
+14. Restore all change to the last commit
+>**`git restore .`**
 
+#### Branching
+1. Create a new branch and check out to it
+>**`git checkout -b branch_name`**
+
+2. Push branch to remote
+>**`git push -u origin branch_name`**
+
+3. Show branches. Current branch is marked with * simbol (**master** branch by default)
+> **`git branch`**
+4. Another developer should not add changes to master branch, but create hist branch
+> **`git branch newBranchName`**
+5. Delete branch
+> **`git branch -D branchName`** 
+6. Switch to another branch
+>**`git cheackout branchName`**
+7. Create a new branch and switch to it
+>**`git branch -b newBranchName`**
+8. Merge/Join branches "myBranch" and "master" from master branch
+>**`git merge myBranch`**
 
 ### Github workflow
 1. Create new repository

@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 19,
   "cssTheme": "Shimmering Focus",
-  "translucency": false,
+  "translucency": true,
   "theme": "obsidian"
 }

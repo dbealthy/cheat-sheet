@@ -39,5 +39,6 @@
   "shimmering-focus@@show-scrollbar": false,
   "shimmering-focus@@permanently-show-collapse-indicators": false,
   "shimmering-focus@@show-starred-nav-buttons": false,
-  "shimmering-focus@@show-close-button": false
+  "shimmering-focus@@show-close-button": false,
+  "shimmering-focus@@monospace-font-size": 1
 }

@@ -7,5 +7,7 @@
     "downscalePercent": 100
   },
   "promptDelete": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "legacyEditor": false,
+  "attachmentFolderPath": "Attachments"
 }

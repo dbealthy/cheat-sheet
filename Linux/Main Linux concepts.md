@@ -1,0 +1,1 @@
+- In linux everything is a *file*

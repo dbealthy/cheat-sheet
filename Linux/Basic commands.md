@@ -41,10 +41,11 @@
 `sed "s/OLD/NEW/g"` - find and replace str
 
 
-### Print Text
+### Text
 `echo "Some Text"` - prints text in termial
 `printf "1\n2\n3"` - prints text with formatting
 
+`wc filename` - prints number of lines, words, characters 
 ### Special characters
 '**\>**' - Greater than symbol, write's command's output to a file
 '**\|**' - Pipe symbol, redirects output of one command to anothe command
@@ -71,3 +72,5 @@
 `date` - shows current date
 `cal` - shows calendar
 `bc` - calculator
+`df -h` - shows free space on hdd in human readable
+`free -th` - shows ram stats in gb with 'h' param
