@@ -1,5 +1,6 @@
 # Cron jobs
 Crontab alows to make schedules for scripts*
+To open crontab editor: `crontab -e`
 ### Format:
 \* * * * * python3 /home/user/Scripts/Dir/main.py
  a b c d e

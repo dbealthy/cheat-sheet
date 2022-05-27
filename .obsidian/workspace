@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Private/VK tasks.md",
+            "file": "Python/Virtual Eviroment.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/VK tasks.md",
+                "file": "Python/Virtual Eviroment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "b01570826f3b7320",
   "lastOpenFiles": [
-    "Private/VK tasks.md",
-    "Git.md",
-    "Private/VCP performance tests.md",
-    "Linux/Basic commands.md",
-    "Examples/Run if not running bash & python example.md",
-    "Examples/Linux service example.md",
-    "Linux/Bashrc.md",
-    "Linux/I_O Redirection (STDIN, STDOUT, STDERROR).md",
+    "Python/Virtual Eviroment.md",
+    "Linux/Crontab.md",
+    "Python/Lounch on start python scripts.md",
+    "Linux/User types.md",
+    "Linux/Promisions (chmod).md",
     "Linux/Main Linux concepts.md",
-    "Private/TODO Work/Vk-Comments-Parser Kanban.md"
+    "Linux/I_O Redirection (STDIN, STDOUT, STDERROR).md",
+    "Linux/Linux services.md",
+    "Linux/Bashrc.md",
+    "Linux/Basic commands.md"
   ]
 }

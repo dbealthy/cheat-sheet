@@ -55,7 +55,10 @@ Github - website and echosistem, backend that is integrated with git.
 > **`git config --global user.email "MyEmail"`**
 3. Connect local repository to remote one. Add remote repository and specify link from github
 >**`git remote add origin https://github.com/dbealthy/MyRepositoryName.git`**
-4. Push data to remote server
+
+4. Remove remote url
+>**`git remote rm <remotename>(origin) 
+6. Push data to remote server
 >**`git push -u origin master`**
 5. To work on a project another developer should clone repository
 >**`git clone https://github.com/dbealthy/MyRepositoryName.git`**
