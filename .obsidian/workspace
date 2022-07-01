@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b01570826f3b7320",
+        "id": "6a4c94b2fccf4e67",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/Virtual Eviroment.md",
+            "file": "Linux/Basic commands.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ps",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +71,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "826dcd72b16957e7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fe87e6449aca1178",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Virtual Eviroment.md",
+                "file": "Linux/Basic commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +112,17 @@
     "width": 366.5,
     "collapsed": true
   },
-  "active": "b01570826f3b7320",
+  "active": "6a4c94b2fccf4e67",
   "lastOpenFiles": [
+    "Linux/Basic commands.md",
+    "APIs/Youtube.md",
+    "APIs/Adobe PDF.md",
+    "Git.md",
+    "Python/Python libraries.md",
     "Python/Virtual Eviroment.md",
-    "Linux/Crontab.md",
-    "Python/Lounch on start python scripts.md",
-    "Linux/User types.md",
-    "Linux/Promisions (chmod).md",
-    "Linux/Main Linux concepts.md",
-    "Linux/I_O Redirection (STDIN, STDOUT, STDERROR).md",
-    "Linux/Linux services.md",
-    "Linux/Bashrc.md",
-    "Linux/Basic commands.md"
+    "Private/Week Tasks (06-10.06.2022).md",
+    "Private/TODO 07.06.2022 Newspaper pdf.md",
+    "Private/Report pdf2text.md",
+    "Private/IMAS db structure.md"
   ]
 }

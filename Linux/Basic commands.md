@@ -74,3 +74,4 @@
 `bc` - calculator
 `df -h` - shows free space on hdd in human readable
 `free -th` - shows ram stats in gb with 'h' param
+`printenv` - print all environment variables

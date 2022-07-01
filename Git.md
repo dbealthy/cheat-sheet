@@ -17,7 +17,7 @@ Github - website and echosistem, backend that is integrated with git.
 	***.gitignore*** content
 	>file1.txt
 	>file2.py
-	>/folder1
+	>folder1/
 
 	After that add files to tracked
 	> **`git add .gitignore`**
@@ -57,7 +57,7 @@ Github - website and echosistem, backend that is integrated with git.
 >**`git remote add origin https://github.com/dbealthy/MyRepositoryName.git`**
 
 4. Remove remote url
->**`git remote rm <remotename>(origin) 
+>**`git remote rm <remotename> (origin)`**
 6. Push data to remote server
 >**`git push -u origin master`**
 5. To work on a project another developer should clone repository
