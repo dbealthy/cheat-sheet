@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/Basic commands.md",
+            "file": "Vim.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277
+    "width": 277,
+    "collapsed": true
   },
   "right": {
     "id": "7086c22efe9119f5",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Basic commands.md",
+                "file": "Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,20 +110,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 366.5
   },
   "active": "6a4c94b2fccf4e67",
   "lastOpenFiles": [
     "Linux/Basic commands.md",
+    "Linux/Crontab.md",
+    "GIT/Concepts.md",
+    "GIT/An Overview.md",
+    "GIT/Problem solving.md",
+    "Programming Patterns.md",
+    "SQL.md",
+    "Gick dict.md",
     "APIs/Youtube.md",
-    "APIs/Adobe PDF.md",
-    "Git.md",
-    "Python/Python libraries.md",
-    "Python/Virtual Eviroment.md",
-    "Private/Week Tasks (06-10.06.2022).md",
-    "Private/TODO 07.06.2022 Newspaper pdf.md",
-    "Private/Report pdf2text.md",
-    "Private/IMAS db structure.md"
+    "APIs/Adobe PDF.md"
   ]
 }
