@@ -99,3 +99,12 @@ To do so we add number before command
 4. `q` - finish macros
 5. `@` + digit - use macros
 6. n + `@` + digit - execute macros n times
+
+## Indentation
+*insert mode*
+`Ctrl` + `t` - indent right
+`Ctrl` + `d` - indent left
+
+*visual mode*
+`<` - indent left
+`>` - indent right
