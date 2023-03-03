@@ -12,3 +12,9 @@ d - month
 e - day of the week
 Generate cron tab schules
 https://crontab-generator.org/
+
+
+Save all users' crontabs in file called $HOSTNAME.txt
+```bash
+for user in $(cut -f1 -d: /etc/passwd); do echo $user; crontab -u $user -l; echo .; done >> "$HOSTNAME.txt"
+```

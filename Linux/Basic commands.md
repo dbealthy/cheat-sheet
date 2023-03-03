@@ -79,4 +79,10 @@
 `df -h` - shows free space on hdd in human readable
 `free -th` - shows ram stats in gb with 'h' param
 `printenv` - print all environment variables
-`watch [options] [command]` - run command every n sec (2 default) and see 
+`watch [options] [command]` - run command every n sec (2 default) and see
+`su [username]` - stands for switch user
+
+
+### System
+`getent [internal_sys_table]` - get system information from table (passwd, shadow, group, hosts, networks, services which are located in /etc/nsswitch.conf
+)
