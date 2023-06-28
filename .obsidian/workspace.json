@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSiNT/Google search.md",
+                "file": "Linux/Linux services.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c9ce8e81879f7fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Install mariadb and phpmyadmin.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,6 +88,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "5ecaf51f8a545b81",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ],
@@ -148,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Install mariadb and phpmyadmin.md",
+                "file": "Linux/Linux services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,21 +172,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c9ce8e81879f7fa",
+  "active": "f224ac10977e2377",
   "lastOpenFiles": [
+    "Linux/External devices.md",
+    "Linux/Basic commands.md",
+    "Linux/Bashrc.md",
+    "Linux/Users groups.md",
+    "Linux/User types.md",
+    "Linux/Permissions (chmod).md",
+    "Linux/Desktop shortcuts.md",
     "Linux/Crontab.md",
+    "Linux/I_O Redirection (STDIN, STDOUT, STDERROR).md",
+    "Linux/Main Linux concepts.md",
+    "Linux/Linux services.md",
+    "Linux/ssh.md",
+    "Attachments/list-users-linux-768x415.png",
+    "Attachments/etc-group-file-768x461.png",
+    "OSiNT/Google search.md",
     "Docker/Install mariadb and phpmyadmin.md",
     "Docker",
-    "Linux/ssh.md",
-    "OSiNT/Google search.md",
     "OSiNT",
-    "Linux/Basic commands.md",
     "GIT/Problem solving.md",
     "GIT/Concepts.md",
     "GIT/An Overview.md",
     "Vim.md",
     "Algorithms/MD5.md",
-    "Linux/Promisions (chmod).md",
     "SQL.md",
     "Programming Patterns.md",
     "Gick dict.md",

@@ -15,5 +15,8 @@ Custom services should be stored in ***/etc/systemd/system/*** directory.
 > `systemctl status <ServiceName>`
 
 - To list all services and their statuses
-- > `systemctl list-units --type=service --all`
+> `systemctl list-units --type=service --all`
 
+
+- To reload configuration files from file system and regenerate dep. tree
+> `systemctl daemon-reload`
