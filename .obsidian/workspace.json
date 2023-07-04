@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux services.md",
+                "file": "Linux/Network adaptors.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux services.md",
+                "file": "Linux/Network adaptors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,31 +174,32 @@
   },
   "active": "f224ac10977e2377",
   "lastOpenFiles": [
-    "Linux/External devices.md",
     "Linux/Basic commands.md",
-    "Linux/Bashrc.md",
+    "Linux/Crontab.md",
     "Linux/Users groups.md",
     "Linux/User types.md",
-    "Linux/Permissions (chmod).md",
-    "Linux/Desktop shortcuts.md",
-    "Linux/Crontab.md",
-    "Linux/I_O Redirection (STDIN, STDOUT, STDERROR).md",
-    "Linux/Main Linux concepts.md",
-    "Linux/Linux services.md",
+    "Linux/USB devices.md",
     "Linux/ssh.md",
+    "Linux/Permissions (chmod).md",
+    "Linux/Main Linux concepts.md",
+    "Linux/Network adaptors.md",
+    "Linux/Linux services.md",
+    "Linux/I_O Redirection (STDIN, STDOUT, STDERROR).md",
+    "Linux/Desktop shortcuts.md",
+    "Vim.md",
+    "SQL.md",
+    "Programming Patterns.md",
+    "OSiNT/Google search.md",
+    "Linux/Bashrc.md",
     "Attachments/list-users-linux-768x415.png",
     "Attachments/etc-group-file-768x461.png",
-    "OSiNT/Google search.md",
     "Docker/Install mariadb and phpmyadmin.md",
     "Docker",
     "OSiNT",
     "GIT/Problem solving.md",
     "GIT/Concepts.md",
     "GIT/An Overview.md",
-    "Vim.md",
     "Algorithms/MD5.md",
-    "SQL.md",
-    "Programming Patterns.md",
     "Gick dict.md",
     "Python/libs/Threading.md"
   ]
