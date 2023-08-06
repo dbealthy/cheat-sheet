@@ -36,6 +36,7 @@ Command and visual mode are case sensative
 `l` - right
 `0` - move to the beginning of the line
 `$` - move tp the end of the line
+
 ## Insertion mode options
 *Command mode*
 `a` - moves cursor right and enters insertion mode

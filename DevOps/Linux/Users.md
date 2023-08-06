@@ -1,4 +1,6 @@
-## User
+
+Users and their hashed passwords are stored in `/etc/passwd`
+
 - Create a new user
 > `sudo useradd -s /bin/bash -m -c "Mary Quinn" -Gsambashare maryq`
 
@@ -26,28 +28,16 @@ The command is composed of:
 > `cat /etc/passwd`
 ![[list-users-linux-768x415.png |500]]
 
+## User types
 
+### Root
+root (**uid: 0**)
+root user doesn't have any constrains
 
-# Group
-- Create a new group
-> `groupadd groupname`
+### Not Root (user)
+Can be divided into (just for understanding. Linux approches them the same):
+- Daemons - users on behalf of which services run
+- Usual users (people)
 
-- Add user to an existing group
-> `usermod -a -G groupname username`
-
-- Change user's primary group (associated files)
-> `usermod -g groupname username`
-
-- View groups a user is assigned to
-> `groups`
-> `groups username`
-
-- Remove user from a group
-> `gpasswd -d username groupname`
-
-- Remove a group
-> `groupdel groupname`
-
-- List all groups
->`cat /etc/group`
-![[etc-group-file-768x461.png |500]]
+daemons (uid: != 0 & < 1000) uid untill 1000
+user (uid: 1000) uid usually starts from 1000

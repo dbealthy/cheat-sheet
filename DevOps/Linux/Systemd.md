@@ -1,3 +1,6 @@
+## Create a new service
+Custom services should be stored in ***/etc/systemd/system/*** directory.
+
 ```bash
 [Unit]
 # Type=simple|forking|oneshot|dbus|notify|idle
@@ -25,3 +28,24 @@ StandardOutput=console
 [Install]
 WantedBy=multi-user.target
 ```
+
+
+
+## Commands 
+- Basic start/restart
+>`systemctl start <ServiceName>`
+>`systemctl stop <ServiceName>`
+>`systemctl restart <ServiceName>`
+
+- Add service to auto start
+> `systemctl enable <ServiceName>`
+
+- Debut service and see its status
+> `systemctl status <ServiceName>`
+
+- To list all services and their statuses
+> `systemctl list-units --type=service --all`
+
+
+- To reload configuration files from file system and regenerate dep. tree
+> `systemctl daemon-reload`

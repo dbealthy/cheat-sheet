@@ -1,3 +1,4 @@
+# Lounch custom scripts on machine start and restart
 
 ```bash
 #!/bin/sh
@@ -12,5 +13,7 @@ else
     echo "${date_time} main.py stopped" >> /home/user/Scripts/VK-Comments-Parser/run.log
     python3 /home/user/Scripts/VK-Comments-Parser/main.py 
 fi
-
 ```
+
+- Use crontab (python scripts are better to launch from a bash script with[[Crontab]]
+- Run script as a Linux service [[Systemd]]

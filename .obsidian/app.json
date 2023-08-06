@@ -9,5 +9,6 @@
   "promptDelete": false,
   "showLineNumber": false,
   "legacyEditor": false,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "./Attachments",
+  "alwaysUpdateLinks": true
 }
