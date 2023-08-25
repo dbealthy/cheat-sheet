@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ec2d726736b19a98",
+        "id": "a26da0f19010b537",
         "type": "tabs",
         "children": [
           {
-            "id": "f224ac10977e2377",
+            "id": "e3bd903a47a59503",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSiNT/Google search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30c6227647cc12c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/GIT/Problem solving.md",
+                "file": "DevConcepts/Микросервисы/Service discovery.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ps",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 525.5
+    "width": 357.5
   },
   "right": {
     "id": "7086c22efe9119f5",
@@ -140,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/GIT/Problem solving.md",
+                "file": "DevConcepts/Микросервисы/Service discovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,48 +156,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "511e0bf47d45658c",
+  "active": "e3bd903a47a59503",
   "lastOpenFiles": [
-    "DevOps/GIT/Overview.md",
-    "DevOps/GIT/Problem solving.md",
-    "Programming Patterns.md",
-    "Gick dict.md",
+    "DevConcepts/Микросервисы/Взаимодействие клиент-сервер.md",
+    "DevConcepts/Микросервисы/Механизмы взаимодействия сервисов.md",
+    "DevOps/Linux/Systemd.md",
+    "DevConcepts/MicroData.md",
+    "DevConcepts/URI URL URN.md",
+    "DevConcepts/TLD.md",
+    "DevConcepts/Idempotency (POST vs PUT).md",
+    "DevConcepts/Finite State Machine.md",
+    "DevConcepts/Микросервисы/Service discovery.md",
+    "DevConcepts/Bloom Filter.md",
+    "DevConcepts/Db operations and connection behavior.md",
+    "DevConcepts/Exponential backoff.md",
+    "DevConcepts/Attachments/Pasted image 20230824110319.png",
+    "DevConcepts/Attachments/Pasted image 20230824101026.png",
+    "DevConcepts/Attachments",
+    "DevConcepts/SEO",
+    "DevConcepts/SEO.md",
+    "DevConcepts/Weighted average.md",
+    "DevOps/Linux/Load env variables from file.md",
+    "DevConcepts/Микросервисы/Attachments/Pasted image 20230815122900.png",
+    "DevConcepts/Микросервисы/Attachments/Pasted image 20230815122806.png",
+    "DevConcepts/Микросервисы/Attachments/Pasted image 20230815122646.png",
+    "DevConcepts/Микросервисы/Attachments/Pasted image 20230815122544.png",
+    "DevConcepts/Микросервисы/Attachments/Pasted image 20230815122526.png",
+    "DevConcepts/Микросервисы/Attachments",
+    "DevOps/Kubernetes/Kubernetes VMs.md",
+    "DevConcepts/Микросервисы",
+    "DevOps/Linux/IO Redirection (STDIN, STDOUT, STDERROR).md",
+    "DevOps/Linux/Concepts.md",
+    "DevOps/Linux/Commands vocabulary.md",
+    "DevOps/Linux/Desktop shortcuts.md",
+    "DevOps/Kubernetes",
     "Fix vscode.md",
-    "DevOps/Docker/Полезные ссылки по Docker.md",
-    "GIT/Problem solving.md",
+    "DevOps/Python/libs/collections.md",
+    "OSiNT/Google search.md",
+    "DevOps/Python/libs/pprint.md",
     "DevOps/Python/libs/hashlib.md",
     "DevOps/Python/libs/dateutil (youtube dateparser).md",
-    "DevOps/Python/libs/Threading.md",
     "DevOps/Linux/Attachments/list-users-linux-768x415.png",
     "DevOps/Linux/Attachments/etc-group-file-768x461.png",
     "DevOps/Linux/Attachments/Promisions1.png",
-    "DevOps/Virt Manager/Enable shared clipbloard.md",
     "DevOps/Python/libs",
-    "DevOps/Python/Virtual Eviroment.md",
-    "DevOps/Python/Python libraries.md",
-    "DevOps/Python/Lounch on start python scripts.md",
-    "DevOps/Python/File \"requirements.txt\".md",
-    "DevOps/Linux/Users.md",
-    "DevOps/Linux/USB devices.md",
-    "DevOps/Linux/Systemd.md",
-    "DevOps/Linux/SSH.md",
-    "DevOps/Linux/Permissions.md",
-    "DevOps/Linux/Network adaptors.md",
-    "DevOps/Linux/Mount drives.md",
-    "DevOps/Linux/Load env variables from file.md",
-    "DevOps/Linux/IO Redirection (STDIN, STDOUT, STDERROR).md",
-    "DevOps/Linux/Groups.md",
-    "DevOps/Linux/Desktop shortcuts.md",
     "DevOps/Linux/Attachments",
     "DevOps/Virt Manager",
     "DevOps/Python",
-    "DevOps/Linux",
-    "DevOps/GIT",
-    "DevOps/Docker",
-    "DevOps",
-    "DevConcepts",
-    "Attachments/list-users-linux-768x415.png",
-    "Attachments/etc-group-file-768x461.png",
-    "Docker"
+    "DevOps/Linux"
   ]
 }

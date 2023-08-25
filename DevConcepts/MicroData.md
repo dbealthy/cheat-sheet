@@ -1,0 +1,218 @@
+https://github.com/scrapinghub/extruct
+
+``` json
+{
+   "dublincore":[
+      {
+         "elements":[
+            {
+               "URI":"http://purl.org/dc/elements/1.1/description",
+               "content":"Представитель сборной Казахстана по ""дзюдо Нурлан Исатаев завоевал ""золотую медаль на чемпионате мира ""среди кадетов, который проходит в ""Загребе (Хорватия), передает ""NUR.KZ.",
+               "name":"description"
+            }
+         ],
+         "namespaces":{
+            
+         },
+         "terms":[
+            
+         ]
+      }
+   ],
+   "json-ld":[
+      {
+         "@context":"https://schema.org",
+         "@type":"NewsArticle",
+         "author":[
+            {
+               "@type":"Person",
+               "jobTitle":"Редактор рубрики Спорт",
+               "name":"Роман Кушпелев",
+               "url":"https://www.nur.kz/authors/roman-kuspelev/"
+            }
+         ],
+         "dateModified":"2023-08-24T11:05:02+06:00",
+         "datePublished":"2023-08-24T11:00:00+06:00",
+         "description":"Представитель сборной Казахстана по дзюдо Нурлан ""Исатаев завоевал золотую медаль на чемпионате ""мира среди кадетов, который проходит в Загребе ""(Хорватия), передает NUR.KZ.",
+         "headline":"Нурлан Исатаев стал чемпионом мира по дзюдо среди ""кадетов",
+         "image":{
+            "@type":"ImageObject",
+            "height":675,
+            "url":"https://cdn.nur.kz/images/1200x675/5bb738ae2684c16c.jpeg?version=1",
+            "width":1200
+         },
+         "isAccessibleForFree":true,
+         "mainEntityOfPage":{
+            "@id":"https://www.nur.kz/sport/other-sports/2033760-nurlan-isataev-stal-chempionom-mira-po-dzyudo-sredi-kadetov/",
+            "@type":"WebPage"
+         },
+         "publisher":{
+            "@type":"Organization",
+            "address":{
+               "@type":"PostalAddress",
+               "addressLocality":"Алматы",
+               "postalCode":"050060",
+               "streetAddress":"Байзакова, 280"
+            },
+            "name":"NUR.KZ",
+            "url":"https://www.nur.kz"
+         }
+      },
+      {
+         "@context":"https://schema.org",
+         "@type":"BreadcrumbList",
+         "itemListElement":[
+            {
+               "@type":"ListItem",
+               "item":"https://www.nur.kz/sport/",
+               "name":"Спорт",
+               "position":1
+            },
+            {
+               "@type":"ListItem",
+               "item":"https://www.nur.kz/sport/other-sports/",
+               "name":"Другие виды спорта",
+               "position":2
+            }
+         ]
+      }
+   ],
+   "microdata":[
+      
+   ],
+   "microformat":[
+      
+   ],
+   "opengraph":[
+      {
+         "namespace":{
+            "article":"http://ogp.me/ns/article#",
+            "og":"http://ogp.me/ns#"
+         },
+         "properties":[
+            "(""og:title",
+            "Нурлан Исатаев стал чемпионом мира по дзюдо ""среди кадетов"")",
+            "(""og:type",
+            "article"")",
+            "(""og:updated_time",
+            "2023-08-24T11:05:02+06:00"")",
+            "(""og:image",
+            "https://cdn.nur.kz/images/1200x675/5bb738ae2684c16c.jpeg?version=1"")",
+            "(""article:published_time",
+            "2023-08-24T11:00:00+06:00"")",
+            "(""article:modified_time",
+            "2023-08-24T11:05:02+06:00"")",
+            "(""article:author",
+            "https://www.facebook.com/PortalNURKZ"")",
+            "(""article:section",
+            "Новости"")",
+            "(""og:description",
+            "Представитель сборной Казахстана по дзюдо ""Нурлан Исатаев завоевал золотую медаль на ""чемпионате мира среди кадетов, который ""проходит в Загребе (Хорватия), передает ""NUR.KZ."")",
+            "(""og:image:width",
+            "1200"")",
+            "(""og:image:height",
+            "675"")",
+            "(""og:url",
+            "https://www.nur.kz/sport/other-sports/2033760-nurlan-isataev-stal-chempionom-mira-po-dzyudo-sredi-kadetov/?"")",
+            "(""og:locale",
+            "ru_RU"")"
+         ]
+      }
+   ],
+   "rdfa":[
+      {
+         "@id":"https://www.nur.kz/sport/other-sports/2033760-nurlan-isataev-stal-chempionom-mira-po-dzyudo-sredi-kadetov/",
+         "http://ogp.me/ns#description":[
+            {
+               "@value":"Представитель сборной ""Казахстана по дзюдо ""Нурлан Исатаев ""завоевал золотую ""медаль на чемпионате ""мира среди кадетов, ""который проходит в ""Загребе (Хорватия), ""передает NUR.KZ."
+            }
+         ],
+         "http://ogp.me/ns#image":[
+            {
+               "@value":"https://cdn.nur.kz/images/1200x675/5bb738ae2684c16c.jpeg?version=1"
+            }
+         ],
+         "http://ogp.me/ns#image:height":[
+            {
+               "@value":"675"
+            }
+         ],
+         "http://ogp.me/ns#image:width":[
+            {
+               "@value":"1200"
+            }
+         ],
+         "http://ogp.me/ns#locale":[
+            {
+               "@value":"ru_RU"
+            }
+         ],
+         "http://ogp.me/ns#title":[
+            {
+               "@value":"Нурлан Исатаев стал ""чемпионом мира по дзюдо ""среди кадетов"
+            }
+         ],
+         "http://ogp.me/ns#type":[
+            {
+               "@value":"article"
+            }
+         ],
+         "http://ogp.me/ns#updated_time":[
+            {
+               "@value":"2023-08-24T11:05:02+06:00"
+            }
+         ],
+         "http://ogp.me/ns#url":[
+            {
+               "@value":"https://www.nur.kz/sport/other-sports/2033760-nurlan-isataev-stal-chempionom-mira-po-dzyudo-sredi-kadetov/?"
+            }
+         ],
+         "http://ogp.me/ns/article#author":[
+            {
+               "@value":"https://www.facebook.com/PortalNURKZ"
+            }
+         ],
+         "http://ogp.me/ns/article#modified_time":[
+            {
+               "@value":"2023-08-24T11:05:02+06:00"
+            }
+         ],
+         "http://ogp.me/ns/article#published_time":[
+            {
+               "@value":"2023-08-24T11:00:00+06:00"
+            }
+         ],
+         "http://ogp.me/ns/article#section":[
+            {
+               "@value":"Новости"
+            }
+         ],
+         "http://ogp.me/ns/fb#pages":[
+            {
+               "@value":"269755056437651"
+            }
+         ],
+         "vk:description":[
+            {
+               "@value":"Представитель сборной Казахстана по ""дзюдо Нурлан Исатаев завоевал ""золотую медаль на чемпионате мира ""среди кадетов, который проходит в ""Загребе (Хорватия), передает ""NUR.KZ."
+            }
+         ],
+         "vk:image":[
+            {
+               "@value":"https://cdn.nur.kz/images/1200x675/5bb738ae2684c16c.jpeg?version=1"
+            }
+         ],
+         "vk:title":[
+            {
+               "@value":"Нурлан Исатаев стал чемпионом мира по ""дзюдо среди кадетов"
+            }
+         ],
+         "vk:url":[
+            {
+               "@value":"https://www.nur.kz/sport/other-sports/2033760-nurlan-isataev-stal-chempionom-mira-po-dzyudo-sredi-kadetov/?"
+            }
+         ]
+      }
+   ]
+}
+```
