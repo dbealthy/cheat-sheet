@@ -1,0 +1,1 @@
+Not handled errors that producer tracebacks in scrapy do eventually stop scheduler. Some requests might not be ever visited because of those errors.
