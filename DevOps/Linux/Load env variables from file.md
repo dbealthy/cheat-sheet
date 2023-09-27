@@ -1,3 +1,3 @@
 ```bash
-env $(cat .env | xargs)
+export $(cat .env | xargs)
 ```
