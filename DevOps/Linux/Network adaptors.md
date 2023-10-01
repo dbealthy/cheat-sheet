@@ -1,5 +1,8 @@
 *ip command is used to show/manipulate network devices*
 
+Show local ip address
+>`ip a`
+
 Show all network devices
 >`ip link`
 
@@ -14,4 +17,4 @@ Show all wireless devices
 >`iw dev`
 
 Change device's mode (monitor mode)
->	`iw wlp0s20f3 set monitor control`
+>`iw wlp0s20f3 set monitor control`
