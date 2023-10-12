@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Kubernetes/Deployment.md",
+                "file": "DevOps/Linux/Private Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Kubernetes/Deployment.md",
+                "file": "DevOps/Linux/Private Network.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,12 +166,12 @@
   },
   "active": "494779a98f502e6b",
   "lastOpenFiles": [
-    "DevOps/Linux/Hostname.md",
+    "DevOps/Linux/Network adaptors.md",
     "DevOps/Kubernetes/Deployment.md",
+    "DevOps/Linux/Private Network.md",
+    "DevOps/Linux/Hostname.md",
     "DevOps/Kubernetes/Kubernetes VMs.md",
     "DevOps/Kubernetes/Production considerations.md",
-    "DevOps/Linux/Private Network.md",
-    "DevOps/Linux/Network adaptors.md",
     "DevOps/Linux/Users.md",
     "DevOps/Linux/USB devices.md",
     "DevOps/Linux/Systemd.md",
