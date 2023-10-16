@@ -1,0 +1,10 @@
+- _Availability_: A single-machine Kubernetes [learning environment](https://kubernetes.io/docs/setup/#learning-environment) has a single point of failure. Creating a highly available cluster means considering:
+    
+    - Separating the control plane from the worker nodes.
+    - Replicating the control plane components on multiple nodes.
+    - Load balancing traffic to the cluster’s [API server](https://kubernetes.io/docs/concepts/overview/components/#kube-apiserver).
+    - Having enough worker nodes available, or able to quickly become available, as changing workloads warrant it.
+
+- _Scale_: If you expect your production Kubernetes environment to receive a stable amount of demand, you might be able to set up for the capacity you need and be done. However, if you expect demand to grow over time or change dramatically based on things like season or special events, you need to plan how to scale to relieve increased pressure from more requests to the control plane and worker nodes or scale down to reduce unused resources.
+    
+- _Security and access management_: You have full admin privileges on your own Kubernetes learning cluster. But shared clusters with important workloads, and more than one or two users, require a more refined approach to who and what can access cluster resources. You can use role-based access control ([RBAC](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)) and other security mechanisms to make sure that users and workloads can get access to the resources they need, while keeping workloads, and the cluster itself, secure. You can set limits on the resources that users and workloads can access by managing [policies](https://kubernetes.io/docs/concepts/policy/) and [container resources](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/).
