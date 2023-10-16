@@ -1,0 +1,1 @@
+pip install faust-streaming[rocksdb,fast]
