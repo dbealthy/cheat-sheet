@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4d93526d3c7fd2ec",
+        "id": "642324cd13764e16",
         "type": "tabs",
         "children": [
           {
-            "id": "6df0f9d567fce977",
+            "id": "07bbf7951508b7a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Python/faust/table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06436bd20063630c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Kubernetes/Kubernetes VMs.md",
+                "file": "DevOps/Linux/Private Network.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".env",
+                "query": "kube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523.5
+    "width": 401.5
   },
   "right": {
     "id": "7086c22efe9119f5",
@@ -150,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Kubernetes/Kubernetes VMs.md",
+                "file": "DevOps/Linux/Private Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,39 +166,42 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "06436bd20063630c",
+  "active": "07bbf7951508b7a1",
   "lastOpenFiles": [
+    "DevOps/Kubernetes/Graceful node removal.md",
+    "DevOps/Kubernetes/Deployment.md",
+    "DevOps/Kubernetes/Ingress controller.md",
+    "DevOps/Kubernetes/Local development.md",
+    "DevOps/Kubernetes/Workflow.md",
+    "DevOps/Kubernetes/Production considerations.md",
+    "DevOps/Kubernetes/Private registry.md",
+    "DevOps/Kubernetes/Kubernetes VMs.md",
+    "DevOps/Kubernetes/After deployment.md",
+    "DevOps/Kubernetes/Monitoring.md",
+    "DevOps/Linux/Load env variables from file.md",
+    "DevOps/GIT/Overview.md",
+    "DevOps/GIT/Concepts.md",
+    "DevOps/Docker/Logging.md",
+    "DevOps/Docker/Install mariadb and phpmyadmin.md",
+    "DevOps/Kubernetes/ingress/nginx/matifests",
+    "DevOps/Kubernetes/ingress/nginx",
+    "DevOps/Kubernetes/ingress",
+    "DevOps/Python/faust/table.md",
+    "DevOps/Linux/Private Network.md",
+    "DevOps/Linux/Hostname.md",
     "DevOps/Python/faust/faust.md",
     "DevOps/Python/faust/app.md",
-    "DevOps/Linux/Load env variables from file.md",
     "Untitled.md",
-    "DevOps/Python/faust/table.md",
     "DevOps/Python/faust/streams and channels.md",
     "DevOps/Python/faust/Installation.md",
     "DevOps/Python/faust/Topic.md",
     "DevOps/Python/libs/hashlib.md",
     "DevOps/Python/Untitled.md",
     "DevOps/Python/faust",
-    "DevConcepts/Databases/Pagination - Chunking. Offset vs Seek Method.md",
-    "DevConcepts/Databases/Db operations and connection behavior.md",
     "DevConcepts/Databases/Attachments/Pasted image 20230927101535.png",
     "DevConcepts/Attachments/Pasted image 20230824101026.png",
     "DevConcepts/Attachments/Pasted image 20230824110319.png",
     "DevConcepts/Databases/Attachments",
-    "DevConcepts/Databases",
-    "DevOps/Vim.md",
-    "Programming Patterns.md",
-    "Fix vscode.md",
-    "DevConcepts/Finite State Machine.md",
-    "DevConcepts/Exponential backoff.md",
-    "Algorithms/MD5.md",
-    "DevConcepts/TLD.md",
-    "DevConcepts/Weighted average.md",
-    "DevConcepts/URI URL URN.md",
-    "DevConcepts/MicroData.md",
-    "DevConcepts/Idempotency (POST vs PUT).md",
-    "DevConcepts/Bloom Filter.md",
-    "DevOps/Docker/Logging.md",
-    "DevConcepts/Logging/Logstash+Clickhouse+Graphana.md"
+    "DevConcepts/Databases"
   ]
 }
