@@ -48,15 +48,15 @@ kubectl apply -f https://github.com/flannel-io/flannel/releases/latest/download/
 
 Join controllers command: 
 ``` bash
-sudo kubeadm join 10.0.0.10:6443 --token 39v4pr.8brtno2noi0k1bt4 \
-	--discovery-token-ca-cert-hash sha256:fd42e19e58f15f9cee72d71c7cb187445621c50b9e8848219da28f74dd095020 \
-	--control-plane
+ sudo kubeadm join {ip address} --token rwuwno.srsywe558wfriegg \
+	--discovery-token-ca-cert-hash {token} \
+	--control-plane 
 ```
 
 Join nodes command:
 ``` bash
-sudo kubeadm join 10.0.0.10:6443 --token 39v4pr.8brtno2noi0k1bt4 \
-	--discovery-token-ca-cert-hash sha256:fd42e19e58f15f9cee72d71c7cb187445621c50b9e8848219da28f74dd095020
+sudo kubeadm join {ip address} --token rwuwno.srsywe558wfriegg \
+	--discovery-token-ca-cert-hash {token}
 ```
 
 To regenerate join commands use if it is timed out:
