@@ -40,3 +40,17 @@ Apply config
 
 Check external ip on ingress controller
 `kubectl get services --namespace ingress-nginx`
+
+## Create default PV class
+`kubectl create -f pv-class.yaml`
+
+``` yaml
+apiVersion: storage.k8s.io/v1
+kind: StorageClass
+metadata:
+  name: local
+  annotations:
+    storageclass.kubernetes.io/is-default-class: "true"
+provisioner: kubernetes.io/no-provisioner
+volumeBindingMode: WaitForFirstConsumer
+```
