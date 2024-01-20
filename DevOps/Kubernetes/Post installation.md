@@ -54,3 +54,7 @@ metadata:
 provisioner: kubernetes.io/no-provisioner
 volumeBindingMode: WaitForFirstConsumer
 ```
+
+
+## Configure private image repository
+[[Private registry]]

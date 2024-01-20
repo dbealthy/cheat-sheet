@@ -4,37 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "642324cd13764e16",
-        "id": "6a240816775a2a59",
+        "id": "d7dc041b0688ced7",
         "type": "tabs",
         "children": [
           {
-            "id": "07bbf7951508b7a1",
-            "id": "b0f4c043713ea4b4",
+            "id": "b8fc4fdc6a6edc54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Linux/Private Network.md",
-                "file": "DevOps/Kubernetes/Deployment.md",
+                "file": "DevOps/Kubernetes/Post installation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d5f74de0f5c34837",
+            "id": "03239e082ff4a60b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Linux/Private Network.md",
+                "file": "DevOps/Linux/Mount drives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38736a505b81db5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Linux/Process.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,8 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kube",
-                "query": "mount",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +103,6 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
     "width": 497.5026054382324
   },
   "right": {
@@ -128,7 +136,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -154,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Linux/Private Network.md",
+                "file": "DevOps/Linux/Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,33 +193,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d5f74de0f5c34837",
+  "active": "38736a505b81db5f",
   "lastOpenFiles": [
-    "DevOps/Kubernetes/Deployment.md",
-    "DevOps/Kubernetes/Production considerations.md",
-    "DevOps/Kubernetes/Post installation.md",
-    "DevOps/Kubernetes/Kubernetes VMs.md",
-    "DevOps/Linux/Permissions.md",
-    "Passwords.md",
-    "DevOps/Linux/Mount drives.md",
-    "DevOps/Linux/Private Network.md",
-    "DevOps/Linux/Users.md",
-    "DevOps/Linux/Network adaptors.md",
-    "DevOps/Linux/USB devices.md",
-    "DevOps/Linux/Bridge interface.md",
-    "DevOps/Linux/Change default program.md",
-    "DevOps/Linux/Commands vocabulary.md",
     "DevOps/Linux/Concepts.md",
+    "DevOps/Linux/Process.md",
     "DevOps/Linux/Crontab.md",
-    "DevOps/Linux/Desktop shortcuts.md",
+    "DevOps/Linux/Commands vocabulary.md",
+    "DevOps/Linux/Change default program.md",
+    "DevOps/Linux/Bashrc.md",
+    "DevOps/Linux/Bridge interface.md",
     "DevOps/Linux/Groups.md",
-    "DevOps/Linux/Hostname.md",
-    "DevOps/Linux/IO Redirection (STDIN, STDOUT, STDERROR).md",
+    "DevOps/GIT/Overview.md",
+    "DevOps/GIT/Concepts.md",
+    "DevOps/Linux/Mount drives.md",
     "DevOps/Linux/Load env variables from file.md",
-    "GIT/Concepts.md",
-    "GIT/Problem solving.md",
-    "GIT/An Overview.md",
+    "DevOps/Linux/IO Redirection (STDIN, STDOUT, STDERROR).md",
+    "DevOps/Linux/Hostname.md",
+    "DevOps/Linux/Desktop shortcuts.md",
+    "DevConcepts/Finite State Machine.md",
+    "DevConcepts/Bloom Filter.md",
+    "DevConcepts/Logging/CEF - common event format.md",
+    "Programming Patterns.md",
+    "prometheus-pv.yaml.md",
+    "Fix vscode.md",
     "Gick dict.md",
-    "Python/libs/Threading.md"
+    "DevOps/Linux/SSH.md",
+    "DevOps/Linux/USB devices.md",
+    "DevOps/Linux/Systemd.md",
+    "DevOps/Linux/Users.md"
   ]
 }
