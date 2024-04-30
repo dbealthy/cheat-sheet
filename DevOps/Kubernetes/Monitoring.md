@@ -40,7 +40,7 @@ kubectl create -f pvc.yaml -n monitoring
 
 
 ```
-helm install kube-prometheus-stack prometheus-community/kube-prometheus-stack -n monitoring
+helm install kube-prometheus-stack prometheus-community/kube-prometheus-stack --values prometheus-values.yaml -n monitoring
 ```
 
 Locate grafana service
