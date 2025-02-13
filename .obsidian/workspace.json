@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b4391378ef3d6007",
+        "id": "58785abb3b0b4fda",
         "type": "tabs",
         "children": [
           {
-            "id": "17c1f1f1696d3307",
+            "id": "aaec601517a60461",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "DevConcepts/TLD - Top Level Domain.md",
-                "bFile": "DevConcepts/TLD - Top Level Domain.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: TLD - Top Level Domain"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -111,16 +111,6 @@
             }
           },
           {
-            "id": "826dcd72b16957e7",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "ea9c4ef3d760ef84",
             "type": "leaf",
             "state": {
@@ -135,66 +125,6 @@
             }
           },
           {
-            "id": "264abbd1d491082b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "9e82b209e000fc56",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "138fd964195a0b03",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "8636d9009e8ecd23",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f424c52a68969cec",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "4f646986409b4bb7",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "2f81e3235052b35f",
             "type": "leaf",
             "state": {
@@ -202,26 +132,6 @@
               "state": {},
               "icon": "lucide-file",
               "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "24d610be78bf7e48",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "33b0cee52e6099e0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
             }
           },
           {
@@ -233,9 +143,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "a8e10cef6c6d5b5b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 3
       },
       {
         "id": "fe87e6449aca1178",
@@ -264,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 712.5
+    "width": 570.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17c1f1f1696d3307",
+  "active": "1e249d84b32dd320",
   "lastOpenFiles": [
     "DevOps/GIT/Problem solving.md",
     "DevOps/GIT/Concepts.md",
