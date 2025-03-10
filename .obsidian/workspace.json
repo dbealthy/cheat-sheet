@@ -4,65 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b746224afb717864",
+        "id": "58785abb3b0b4fda",
         "type": "tabs",
         "children": [
           {
-            "id": "1ebc29e7d476fe99",
+            "id": "aaec601517a60461",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "DevOps/Linux/USB devices.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "USB devices"
-            }
-          },
-          {
-            "id": "8ebefd8a73f1f0bf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "3a409baa9763e868",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Kubernetes/Deployment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deployment"
-            }
-          },
-          {
-            "id": "c8074e05fc34bcb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview/ACID.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ACID"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,16 +111,6 @@
             }
           },
           {
-            "id": "826dcd72b16957e7",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
             "id": "ea9c4ef3d760ef84",
             "type": "leaf",
             "state": {
@@ -176,7 +125,7 @@
             }
           },
           {
-            "id": "264abbd1d491082b",
+            "id": "2f81e3235052b35f",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -186,197 +135,17 @@
             }
           },
           {
-            "id": "e87c7ccf11434aee",
+            "id": "1e249d84b32dd320",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
+              "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
-            "id": "2f87dee48aa80f29",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "7be88c32f1960d77",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "349d61153a4a9d6b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "a5ea4be65777ab65",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "c8ab49b17aa8ccc4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ac629d604690d405",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ecfa23110de19f7c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "9b0d3580a45ac950",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "51fa7e58913fdd95",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ef244e6faecdf790",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f3da2808c03dbfcc",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "0a72796e0413da60",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "1a619b94e9fc931a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "869b1f141eafd70d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "cfe45a99ba472ab3",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "e0023c3085ec2351",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "6e7a02a4c229249f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "895a8ea596684da8",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "13c3e1f8f717bec3",
+            "id": "a8e10cef6c6d5b5b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -399,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Linux/Mount drives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -409,74 +177,54 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mount drives"
+              "title": "Backlinks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 570.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13c3e1f8f717bec3",
+  "active": "1e249d84b32dd320",
   "lastOpenFiles": [
-    "Interview/CORS.md",
-    "Interview/Итераторы vs Генераторы.md",
-    "Interview/Теорема CAP.md",
-    "Interview/Коллизии хэш таблиц.md",
-    "Interview/Popular Questions.md",
-    "Interview/Asked Questions.md",
-    "Interview/2024-11-18 РБК Банк.md",
-    "Interview/Celery.md",
-    "DevOps/Virt Manager/Shared directory.md",
-    "DevOps/Linux/Bashrc.md",
-    "DevOps/Virt Manager/Enable shared clipbloard.md",
-    "DevOps/Linux/Users.md",
-    "Fix vscode.md",
-    "DevOps/Linux/USB devices.md",
-    "UML.md",
-    "Repair Kubernetes after certificates mess.md",
-    "Gick dict.md",
-    "DevOps/Linux/Mount drives.md",
-    "DevOps/Linux/Bridge interface.md",
-    "DevOps/Kubernetes/Deployment.md",
-    "Interview/Django/prefetch_related or select_related.md",
-    "Interview/Celery",
-    "Interview/Django",
-    "Interview/ACID.md",
     "DevOps/GIT/Problem solving.md",
-    "DevOps/Python/timezones.md",
-    "Patterns/Классификация.md",
-    "Untitled 1.md",
-    "Interview/Attachments/Pasted image 20240628095019.png",
-    "Interview/Attachments",
-    "Untitled",
-    "Vulnerabilities",
-    "Patterns/Структурные/Attachments/Pasted image 20240618223617.png",
-    "Patterns/Структурные/Attachments/Pasted image 20240618221209.png",
-    "Patterns/code/decorator_singletone.py",
-    "Patterns/code/myfile.txt",
-    "Patterns/code/decorator_class.py",
-    "Patterns/code/closure.py",
-    "Patterns/code/decorator.py",
-    "Patterns/Структурные/Attachments/Pasted image 20240618124018.png",
-    "Patterns/Структурные/Attachments/Pasted image 20240617183106.png",
-    "Patterns/Структурные/Attachments/Pasted image 20240617182703.png",
-    "Patterns/Структурные/Attachments/Pasted image 20240617164523.png",
-    "Patterns/Структурные/Attachments/Pasted image 20240617164502.png",
-    "Patterns/Структурные/Attachments/Pasted image 20240617163945.png",
-    "Patterns/Структурные/Attachments/Pasted image 20240617164523.png"
+    "DevOps/GIT/Concepts.md",
+    "DevConcepts/Databases/Django transactions.md",
+    "DevConcepts/Databases/Atomicity VS Durability in practice Django.md",
+    "DevConcepts/Databases/Pagination - Chunking. Offset vs Seek Method.md",
+    "DevOps/Linux/Bash and Shell.md",
+    "Untitled.md",
+    "DevOps/GIT/Overview.md",
+    "DevOps/Postgresql.md",
+    "DevOps/Linux/Network adaptors.md",
+    "DevOps/Linux/Mount drives.md",
+    "DevOps/Linux/Load env variables from file.md",
+    "DevOps/Linux/IO Redirection (STDIN, STDOUT, STDERROR).md",
+    "DevOps/Linux/Hostname.md",
+    "DevOps/Linux/Groups.md",
+    "DevOps/Linux/Desktop shortcuts.md",
+    "DevOps/Linux/Crontab.md",
+    "DevOps/Linux/Concepts.md",
+    "DevOps/Linux/Commands vocabulary.md",
+    "DevOps/Linux/Change default program.md",
+    "DevOps/Linux/Bridge interface.md",
+    "DevOps/Linux/Bashrc.md",
+    "DevOps/Docker/Полезные ссылки по Docker.md",
+    "DevOps/Docker/Install mariadb and phpmyadmin.md",
+    "DevConcepts/Weighted average.md",
+    "DevConcepts/URI URL URN.md"
   ]
 }
