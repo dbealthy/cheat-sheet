@@ -1,6 +1,6 @@
 ACID
 CUP theoreme
-Laze loading
+Lazy loading
 Генераторы vs Итераторы
 Query Set
 prefetch related select related

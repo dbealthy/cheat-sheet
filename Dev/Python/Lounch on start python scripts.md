@@ -17,3 +17,4 @@ fi
 
 - Use crontab (python scripts are better to launch from a bash script with[[Crontab]]
 - Run script as a Linux service [[Systemd]]
+- Use Docker

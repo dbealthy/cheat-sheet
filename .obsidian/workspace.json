@@ -4,58 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3cea011107c8d868",
-        "id": "b746224afb717864",
+        "id": "2f561ebec7235573",
         "type": "tabs",
         "children": [
           {
-            "id": "011f7a62944e501c",
-            "id": "1ebc29e7d476fe99",
+            "id": "d8f04704a566209c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Linux/USB devices.md",
+                "file": "Interview/РБК Банк/Вопросы Python senior dev.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "USB devices"
-            }
-          },
-          {
-            "id": "8ebefd8a73f1f0bf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "3a409baa9763e868",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevConcepts/Architecture/UML - Unified Modeling Language.md",
-                "mode": "source",
-                "source": false
-                "file": "Design/Простой Дизайн. Кент бек.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UML - Unified Modeling Language"
-              "icon": "lucide-file",
-              "title": "Простой Дизайн. Кент бек"
+              "title": "Вопросы Python senior dev"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +90,6 @@
     ],
     "direction": "horizontal",
     "width": 376.51103591918945
-    "width": 379.5
   },
   "right": {
     "id": "7086c22efe9119f5",
@@ -146,16 +111,6 @@
             }
           },
           {
-            "id": "826dcd72b16957e7",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
             "id": "ea9c4ef3d760ef84",
             "type": "leaf",
             "state": {
@@ -170,7 +125,7 @@
             }
           },
           {
-            "id": "264abbd1d491082b",
+            "id": "2f81e3235052b35f",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -180,193 +135,13 @@
             }
           },
           {
-            "id": "e87c7ccf11434aee",
+            "id": "1e249d84b32dd320",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
+              "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "2f87dee48aa80f29",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "7be88c32f1960d77",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "349d61153a4a9d6b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "a5ea4be65777ab65",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "c8ab49b17aa8ccc4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ac629d604690d405",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ecfa23110de19f7c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "9b0d3580a45ac950",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "51fa7e58913fdd95",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ef244e6faecdf790",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f3da2808c03dbfcc",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "0a72796e0413da60",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "1a619b94e9fc931a",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "869b1f141eafd70d",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "cfe45a99ba472ab3",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "e0023c3085ec2351",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "6e7a02a4c229249f",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "895a8ea596684da8",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -431,7 +206,6 @@
           },
           {
             "id": "9b908938b7dfa25b",
-            "id": "13c3e1f8f717bec3",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -441,8 +215,7 @@
             }
           }
         ],
-        "currentTab": 10
-        "currentTab": 23
+        "currentTab": 3
       },
       {
         "id": "fe87e6449aca1178",
@@ -455,8 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevConcepts/Architecture/UML - Unified Modeling Language.md",
-                "file": "DevOps/Linux/Mount drives.md",
+                "file": "Interview/РБК Банк/Вопросы Python senior dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -466,8 +238,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for UML - Unified Modeling Language"
-              "title": "Backlinks for Mount drives"
+              "title": "Backlinks for Вопросы Python senior dev"
             }
           }
         ]
@@ -475,67 +246,67 @@
     ],
     "direction": "horizontal",
     "width": 376.5
-    "width": 200,
-    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a409baa9763e868",
+  "active": "d8f04704a566209c",
   "lastOpenFiles": [
-    "Design/KISS.md",
-    "DevOps/Kubernetes/Deployment.md",
-    "Design/Простой Дизайн. Кент бек.md",
-    "Design/Делегирование или Наследование.md",
-    "Design/DRY.md",
-    "Design/YAGNI.md",
-    "Design/Information Expert.md",
-    "Interview/ACID.md",
-    "Design/YAGNI",
-    "Design/KISS",
-    "Design/DRY",
-    "Design",
-    "Untitled.md",
-    "DevOps/Postgresql.md",
-    "DevOps/Linux/Bash and Shell.md",
-    "DevOps/Docker/Copy files from host.md",
-    "DevConcepts/TLD - Top Level Domain.md",
-    "DevConcepts/Databases/Django transactions.md",
-    "DevConcepts/Databases/Atomicity VS Durability in practice Django.md",
-    "Interview/CORS.md",
-    "Interview/Итераторы vs Генераторы.md",
-    "Interview/Теорема CAP.md",
-    "Interview/Коллизии хэш таблиц.md",
+    "Interview/РБК Банк/2024-11-18 РБК Банк.md",
+    "Interview/РБК Банк/Вопросы Python senior dev.md",
+    "Interview/РБК Банк/Вопросы Python senior dev (1).pdf",
+    "Dev/Python/File \"requirements.txt\".md",
+    "Dev/Python/Lounch on start python scripts.md",
+    "Dev/Python/Virtual Evironment (venv).md",
+    "Dev/Python/Timezones.md",
+    "Dev/Python/Итераторы vs Генераторы.md",
+    "Utils/OSiNT/Google search.md",
+    "Dev/Python/libs/Celery.md",
+    "Interview/Kolesa.kz/MLOPS.md",
     "Interview/Popular Questions.md",
-    "Interview/Asked Questions.md",
-    "Interview/2024-11-18 РБК Банк.md",
-    "Interview/Celery.md",
-    "DevOps/Virt Manager/Shared directory.md",
-    "DevOps/Linux/Bashrc.md",
-    "DevOps/Virt Manager/Enable shared clipbloard.md",
-    "Interview/Celery",
-    "Interview/Django",
-    "Interview/Attachments/Pasted image 20240628095019.png",
-    "Interview/Attachments",
-    "Untitled",
-    "Vulnerabilities",
-    "Patterns/Структурные/Attachments/Pasted image 20240618223617.png",
-    "Patterns/Структурные/Attachments/Pasted image 20240618221209.png",
+    "Interview/Kolesa.kz",
+    "Interview/РБК Банк",
+    "DevConcepts/Architecture/Design Patterns/Структурные/Декоратор.md",
+    "DevConcepts/Architecture/Design Patterns/Структурные/Адаптер.md",
+    "DevConcepts/Architecture/Design Principles/SOLID.md",
+    "DevConcepts/Architecture/Design Principles/YAGNI.md",
+    "DevConcepts/Architecture/Design Principles/Делегирование или Наследование.md",
+    "DevConcepts/Architecture/Design Principles/Простой Дизайн. Кент бек.md",
+    "DevConcepts/Architecture/Design Principles/KISS.md",
+    "DevConcepts/Architecture/Design Principles/Information Expert.md",
+    "DevConcepts/Architecture/Design Principles/DRY.md",
+    "DevConcepts/Architecture/Design Patterns/Классификация.md",
+    "DevConcepts/Architecture/Programming Patterns.md",
+    "DevConcepts/Architecture/Design Patterns/Структурные/Фасад.md",
+    "DevConcepts/Architecture/Design Patterns/Структурные/Мост.md",
+    "DevConcepts/Architecture/Design Patterns/Структурные/Легковес.md",
+    "DevConcepts/Architecture/Design Patterns/Структурные/Компоновщик.md",
+    "DevConcepts/Databases/Attachments/Pasted image 20230927101535.png",
+    "DevConcepts/Databases/Attachments/Pasted image 20240628095019.png",
+    "Dev/Python/libs/standard",
+    "DevConcepts/Vulnerabilities",
+    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments/Pasted image 20240618223617.png",
+    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments/Pasted image 20240618221209.png",
+    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments/Pasted image 20240618124018.png",
+    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments/Pasted image 20240617183106.png",
+    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments/Pasted image 20240617182703.png",
+    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments/Pasted image 20240617164523.png",
+    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments/Pasted image 20240617164502.png",
+    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments/Pasted image 20240617163945.png",
+    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments",
     "Patterns/code/decorator_singletone.py",
-    "Patterns/Структурные/Attachments/Pasted image 20240618124018.png",
-    "Patterns/Структурные/Attachments/Pasted image 20240617183106.png",
-    "Patterns/Структурные/Attachments/Pasted image 20240617182703.png",
-    "Patterns/Структурные/Attachments/Pasted image 20240617164523.png",
-    "Patterns/Структурные/Attachments/Pasted image 20240617164502.png",
-    "Patterns/Структурные/Attachments/Pasted image 20240617163945.png",
-    "Patterns/Структурные/Attachments/Pasted image 20240617164523.png"
+    "Patterns/code/decorator_class.py",
+    "Patterns/code/decorator.py",
+    "Patterns/code/composite.py",
+    "Untitled.canvas"
   ]
 }
