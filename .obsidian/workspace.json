@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "58785abb3b0b4fda",
+        "id": "3cea011107c8d868",
         "type": "tabs",
         "children": [
           {
-            "id": "aaec601517a60461",
+            "id": "011f7a62944e501c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "DevConcepts/Architecture/UML - Unified Modeling Language.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "UML - Unified Modeling Language"
             }
           }
         ]
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5026054382324
+    "width": 376.51103591918945
   },
   "right": {
     "id": "7086c22efe9119f5",
@@ -150,12 +150,72 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "dfd8f5b744a20085",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "bb9b1d5b0452e47c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b3a920e19b0c4be5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3e0210ca6aa09213",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "66c652273a76989e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "9b908938b7dfa25b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       },
       {
         "id": "fe87e6449aca1178",
@@ -168,6 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DevConcepts/Architecture/UML - Unified Modeling Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,14 +238,14 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for UML - Unified Modeling Language"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 570.5
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,33 +259,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e249d84b32dd320",
+  "active": "511e0bf47d45658c",
   "lastOpenFiles": [
-    "DevOps/GIT/Problem solving.md",
-    "DevOps/GIT/Concepts.md",
-    "DevConcepts/Databases/Django transactions.md",
-    "DevConcepts/Databases/Atomicity VS Durability in practice Django.md",
-    "DevConcepts/Databases/Pagination - Chunking. Offset vs Seek Method.md",
-    "DevOps/Linux/Bash and Shell.md",
-    "Untitled.md",
-    "DevOps/GIT/Overview.md",
+    "DevConcepts/Architecture/SOLID.md",
+    "DevConcepts/Architecture/UML - Unified Modeling Language.md",
+    "DevConcepts/Architecture/Idempotency (POST vs PUT).md",
+    "DevConcepts/Architecture/Заметки.md",
+    "Dev/Python/Lounch on start python scripts.md",
+    "Dev/Python/File \"requirements.txt\".md",
+    "Dev/Python/libs/threading.md",
+    "Dev/Python/libs/pprint.md",
+    "Dev/Python/libs/collections.md",
+    "Dev/Python/libs/dateutil (youtube dateparser).md",
+    "Dev/Python/libs/hashlib.md",
+    "Dev/Python/faust/Topic.md",
+    "Dev/Python/faust/table.md",
+    "Dev/Python/faust/streams and channels.md",
+    "Dev/Python/faust/Installation.md",
+    "Dev/Python/faust/faust.md",
+    "Dev/Python/faust/app.md",
     "DevOps/Postgresql.md",
-    "DevOps/Linux/Network adaptors.md",
-    "DevOps/Linux/Mount drives.md",
-    "DevOps/Linux/Load env variables from file.md",
-    "DevOps/Linux/IO Redirection (STDIN, STDOUT, STDERROR).md",
-    "DevOps/Linux/Hostname.md",
-    "DevOps/Linux/Groups.md",
-    "DevOps/Linux/Desktop shortcuts.md",
-    "DevOps/Linux/Crontab.md",
-    "DevOps/Linux/Concepts.md",
-    "DevOps/Linux/Commands vocabulary.md",
-    "DevOps/Linux/Change default program.md",
-    "DevOps/Linux/Bridge interface.md",
-    "DevOps/Linux/Bashrc.md",
-    "DevOps/Docker/Полезные ссылки по Docker.md",
-    "DevOps/Docker/Install mariadb and phpmyadmin.md",
-    "DevConcepts/Weighted average.md",
-    "DevConcepts/URI URL URN.md"
+    "Dev",
+    "DevOps/Kubernetes/Private registry.md",
+    "DevOps/Kubernetes/Post installation.md",
+    "DevOps/Kubernetes/Monitoring.md",
+    "DevOps/Kubernetes/Local development.md",
+    "DevOps/Kubernetes/Kubernetes VMs.md",
+    "DevOps/Kubernetes/Ingress controller.md",
+    "DevOps/Kubernetes/Deployment.md",
+    "DevOps/Kubernetes/Graceful node removal.md",
+    "Utils",
+    "DevConcepts/Other/_Attachments/Pasted image 20230824110319.png",
+    "DevConcepts/Other/_Attachments/Pasted image 20230824101026.png",
+    "DevConcepts/Other",
+    "Untitled.canvas",
+    "DevConcepts/Architecture"
   ]
 }
