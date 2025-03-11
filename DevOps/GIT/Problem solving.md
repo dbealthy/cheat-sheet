@@ -6,8 +6,19 @@ This means that was a commit on the local repository and the remote one from ano
 
 ## Reset all changes and pull
 	`git reset --hard HEAD`
-`git pull`
+	`git pull`
 
+
+## Move not committed changes to a new branch
+
+
+1. Stash changes without committing them 
+   `git stash`
+2. Create target branch
+	`git checkout -b new_branch`
+3. Apply changes in current branch
+   `git stash apply`
+4. Commit and push changes
 
 
 ## Squash commits

@@ -63,3 +63,34 @@ To regenerate join commands use if it is timed out:
 ```
 kubeadm token create --print-join-command
 ```
+
+
+```
+# Please edit the object below. Lines beginning with a '#' will be ignored,
+# and an empty file will abort the edit. If an error occurs while saving this file will be
+# reopened with the relevant failures.
+#
+apiVersion: v1
+data:
+  jws-kubeconfig-96wk06: eyJhbGciOiJIUzI1NiIsImtpZCI6Ijk2d2swNiJ9..WaTVbXHS1rERCVijLAxAHX131BXqFHagUkgIVAomAec
+  jws-kubeconfig-acxtlw: eyJhbGciOiJIUzI1NiIsImtpZCI6ImFjeHRsdyJ9..Fwo42ha0TyL4ppKHVfy0HOfuQmlyB8U8fteTVwnF4cM
+  jws-kubeconfig-bgroqi: eyJhbGciOiJIUzI1NiIsImtpZCI6ImJncm9xaSJ9..JHRth5xIUL7usodkHqV0XEmcLdJ5W8oi7fMD0Em19Ic
+  jws-kubeconfig-ftlaiy: eyJhbGciOiJIUzI1NiIsImtpZCI6ImZ0bGFpeSJ9..MdhffUzp4JQxfNHdoDYoXgCrqu0yh4qLAiFuUtiyy9U
+  jws-kubeconfig-wsjawc: eyJhbGciOiJIUzI1NiIsImtpZCI6IndzamF3YyJ9.._WATlDsOaPadvsAH4Uk2tosaCbaie_6kuEzC37PHUnc
+  kubeconfig: |
+    apiVersion: v1
+    clusters:
+    - cluster:
+        certificate-authority-data: LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURCVENDQWUyZ0F3SUJBZ0lJSldPZThpNmRDYmd3RFFZSktvWklodmNOQVFFTEJRQXdGVEVUTUJFR0ExVUUKQXhNS2EzVmlaWEp1WlhSbGN6QWVGdzB5TXpFeE1qUXhOVEEzTkRSYUZ3MHpNekV4TWpFeE5URXlORFJhTUJVeApFekFSQmdOVkJBTVRDbXQxWW1WeWJtVjBaWE13Z2dFaU1BMEdDU3FHU0liM0RRRUJBUVVBQTRJQkR3QXdnZ0VLCkFvSUJBUUNkKzB0Sk1aRUJXUGZTWmFCZXMxQVZyOFJrMkpSZmJ1aGtDYVNpZWZEc25lZldqVDExOW8xMkVBOVEKbHgvd2V1ZXhtM24vdC9nbExYTHRPMWQzaWd0aVY2OUxVd0QyUmxlNVlvZ05EaHV4Nm5zcnZlYUw4amZ1WExQaAo4eTY5NU9LNks1eEdPTVd1NEhlM3BXbG1mMHdlRlFQYWxKSDJqaDB6dlVBd0prRUowZHBZcElTVWJNMUdneHBNCmthV0tNMlV4bWlBYmVJMENoNm5XWjNDNFVjMXgxQXFCVmk4d2ZPbXlPYXFWK3pkUHRjZWtOVEtZV3YyRTRLQWsKL0JyeWNJTVpOVEhVZjVEeS8yZWpjZzZlZllvMnZMd2gvdkVDRk1hRlBsRnFyKy9nRHp4L3hPU0VvQXZvcTU2VApHeTBGMGVRb01qUjE0Sjl0R3dxdWVTZFFuVk1MQWdNQkFBR2pXVEJYTUE0R0ExVWREd0VCL3dRRUF3SUNwREFQCkJnTlZIUk1CQWY4RUJUQURBUUgvTUIwR0ExVWREZ1FXQkJTQ0JrU3NCUTYyNU5ZNUszRnNGWGswSVV1UElEQVYKQmdOVkhSRUVEakFNZ2dwcmRXSmxjbTVsZEdWek1BMEdDU3FHU0liM0RRRUJDd1VBQTRJQkFRQUZlU0J3RzUxSgplaklZbG1uUi92WVdTTUNRQ1I2WnIrY0FkWkJUZUp2QTFsM0E1ejg4K2l6VzVCVlI5OFB0eTlqbWdMUXJDN0xhCjNSNkU1NzMxeWJraUIxaThzK2ZZenBGVDVjNFdlWWN2K1ZRQUZHVzRVTFRLTndUcTR6emljcERCTDk0TWFaSXQKT0YvZFhrRmYwazBOZG1qWGFKbDBjVVplYVF5L3ltUlJxaE9QQm4vRVJ4cUZwT3J4dUNDOE9SSW9QZ01abnkrSApwSmFkdEJ1TGxneEp3bXMvTmJRT01yMm9rVTNQbDdCNzQ2K1VVN1BQeWRyNnViUFFtYm12a09hZDAvMUdEdzNDCnYyaTRtWHJYcnhiZEhWU1NlNk1hOThoZjNBMmg5QkM3TDV5bGgrZEhOR0xzVUY4SzZxVnorNWdDTjdsL0N4akoKVVJCRmFJczlycEpLCi0tLS0tRU5EIENFUlRJRklDQVRFLS0tLS0K
+        server: https://10.0.0.10:6443
+      name: ""
+    contexts: null
+    current-context: ""
+    kind: Config
+    preferences: {}
+    users: null
+kind: ConfigMap
+                                                            1,1           Top
+
+
+```
