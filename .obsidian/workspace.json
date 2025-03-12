@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2f561ebec7235573",
+        "id": "aca81335db24753b",
         "type": "tabs",
         "children": [
           {
-            "id": "d8f04704a566209c",
+            "id": "8817d2793821f117",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/РБК Банк/Вопросы Python senior dev.md",
+                "file": "DevConcepts/Architecture/Design Patterns/GRASP/1. Information Expert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы Python senior dev"
+              "title": "1. Information Expert"
             }
           }
         ]
@@ -200,12 +200,42 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9b908938b7dfa25b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "131967f94384bdbe",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "87e8317fd80fb6ba",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           },
           {
-            "id": "9b908938b7dfa25b",
+            "id": "036ae659aab9c431",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -228,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview/РБК Банк/Вопросы Python senior dev.md",
+                "file": "DevConcepts/Architecture/Design Patterns/GRASP/1. Information Expert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +268,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Вопросы Python senior dev"
+              "title": "Backlinks for 1. Information Expert"
             }
           }
         ]
@@ -259,54 +289,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8f04704a566209c",
+  "active": "8817d2793821f117",
   "lastOpenFiles": [
-    "Interview/РБК Банк/2024-11-18 РБК Банк.md",
+    "DevConcepts/Architecture/Design Patterns/GRASP/2. Creator.md",
+    "DevConcepts/Architecture/Design Patterns/GRASP/1. Information Expert.md",
+    "DevConcepts/Architecture/Design Patterns/GRASP/Attachments/Pasted image 20250312165613.png",
+    "DevConcepts/Architecture/Design Patterns/GRASP/Attachments/Pasted image 20250312163414.png",
+    "DevConcepts/Architecture/Design Patterns/GRASP/Attachments",
+    "DevConcepts/Architecture/Design Patterns/GRASP/About.md",
+    "DevConcepts/Architecture/Делегирование или Наследование.md",
+    "DevConcepts/Architecture/Структура проектов.md",
+    "DevConcepts/Architecture/Заметки.md",
+    "DevConcepts/Architecture/UML - Unified Modeling Language.md",
+    "DevConcepts/Architecture/It's ok to have domain model in each layer.md",
+    "DevConcepts/Architecture/Idempotency (POST vs PUT).md",
+    "DevConcepts/Architecture/Finite State Machine.md",
+    "DevConcepts/Architecture/Application vs Domain.md",
+    "DevConcepts/Architecture/Design Patterns/GOF/Классификация.md",
+    "DevConcepts/Architecture/Design Patterns/GOF",
+    "DevConcepts/Architecture/Design Principles/Простой Дизайн. Кент бек.md",
+    "DevConcepts/Architecture/Design Principles/YAGNI.md",
+    "DevConcepts/Architecture/Design Principles/SOLID.md",
+    "DevConcepts/Architecture/Design Principles/KISS.md",
+    "DevConcepts/Architecture/Design Principles/DRY.md",
+    "DevConcepts/Architecture/Design Patterns/GRASP",
+    "DevOps/GIT/Revert commit.md",
+    "DevOps/GIT/Problem solving.md",
+    "DevConcepts/Architecture/Design Patterns/Анти-паттерны/Big ball of mud.md",
+    "DevConcepts/Architecture/Design Patterns/Анти-паттерны/Soft Code.md",
+    "DevConcepts/Architecture/Design Patterns/Анти-паттерны",
     "Interview/РБК Банк/Вопросы Python senior dev.md",
+    "Interview/РБК Банк/2024-11-18 РБК Банк.md",
     "Interview/РБК Банк/Вопросы Python senior dev (1).pdf",
     "Dev/Python/File \"requirements.txt\".md",
     "Dev/Python/Lounch on start python scripts.md",
-    "Dev/Python/Virtual Evironment (venv).md",
-    "Dev/Python/Timezones.md",
-    "Dev/Python/Итераторы vs Генераторы.md",
-    "Utils/OSiNT/Google search.md",
-    "Dev/Python/libs/Celery.md",
-    "Interview/Kolesa.kz/MLOPS.md",
-    "Interview/Popular Questions.md",
     "Interview/Kolesa.kz",
     "Interview/РБК Банк",
-    "DevConcepts/Architecture/Design Patterns/Структурные/Декоратор.md",
-    "DevConcepts/Architecture/Design Patterns/Структурные/Адаптер.md",
-    "DevConcepts/Architecture/Design Principles/SOLID.md",
-    "DevConcepts/Architecture/Design Principles/YAGNI.md",
-    "DevConcepts/Architecture/Design Principles/Делегирование или Наследование.md",
-    "DevConcepts/Architecture/Design Principles/Простой Дизайн. Кент бек.md",
-    "DevConcepts/Architecture/Design Principles/KISS.md",
-    "DevConcepts/Architecture/Design Principles/Information Expert.md",
-    "DevConcepts/Architecture/Design Principles/DRY.md",
-    "DevConcepts/Architecture/Design Patterns/Классификация.md",
-    "DevConcepts/Architecture/Programming Patterns.md",
-    "DevConcepts/Architecture/Design Patterns/Структурные/Фасад.md",
-    "DevConcepts/Architecture/Design Patterns/Структурные/Мост.md",
-    "DevConcepts/Architecture/Design Patterns/Структурные/Легковес.md",
-    "DevConcepts/Architecture/Design Patterns/Структурные/Компоновщик.md",
     "DevConcepts/Databases/Attachments/Pasted image 20230927101535.png",
     "DevConcepts/Databases/Attachments/Pasted image 20240628095019.png",
     "Dev/Python/libs/standard",
     "DevConcepts/Vulnerabilities",
-    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments/Pasted image 20240618223617.png",
-    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments/Pasted image 20240618221209.png",
-    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments/Pasted image 20240618124018.png",
-    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments/Pasted image 20240617183106.png",
-    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments/Pasted image 20240617182703.png",
-    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments/Pasted image 20240617164523.png",
-    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments/Pasted image 20240617164502.png",
-    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments/Pasted image 20240617163945.png",
-    "DevConcepts/Architecture/Design Patterns/Структурные/Attachments",
-    "Patterns/code/decorator_singletone.py",
-    "Patterns/code/decorator_class.py",
-    "Patterns/code/decorator.py",
-    "Patterns/code/composite.py",
+    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Attachments/Pasted image 20240618223617.png",
+    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Attachments/Pasted image 20240618221209.png",
+    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Attachments/Pasted image 20240618124018.png",
+    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Attachments/Pasted image 20240617183106.png",
+    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Attachments/Pasted image 20240617182703.png",
+    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Attachments/Pasted image 20240617164523.png",
+    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Attachments",
     "Untitled.canvas"
   ]
 }
