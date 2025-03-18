@@ -1,0 +1,1 @@
+Source: https://medium.com/@dkraczkowski/events-in-domain-driven-design-event-propagation-strategies-b30d8df046e2
