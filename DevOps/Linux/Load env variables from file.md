@@ -1,3 +1,3 @@
 ```bash
-export $(cat .env | xargs)
+F
 ```

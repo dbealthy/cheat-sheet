@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0617b2f12e5ed93e",
+        "id": "6b15f07087a1afda",
         "type": "tabs",
         "children": [
           {
-            "id": "f69755efef9b9feb",
+            "id": "b545b0f160939c07",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "permission",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.51103591918945
+    "width": 318.5
   },
   "right": {
     "id": "7086c22efe9119f5",
@@ -126,8 +126,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -146,8 +146,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -156,8 +156,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -166,8 +166,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -176,8 +176,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -186,8 +186,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -196,8 +196,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -206,8 +206,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -216,8 +216,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -226,8 +226,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -236,8 +236,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
@@ -246,12 +246,492 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
             "id": "6c1376f032b2975d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "60f9c079482c22c4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "133e920f39da8491",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "6dcbe07a5e2c4467",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "fbd02e9ca59ab066",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "c60b4383933ae477",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "22e05142cfcffb6a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "a5c9c43762ac4192",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "bfa278eb702dedb9",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "b3a4d9eac7fb073b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "f4cbf7ac3395ddbb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "3a6bd47aed48f98d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "8281b028088ba9c2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "e9cc38a751485840",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "4054ed6c8d7583a4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "2d3aa32c219b9995",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "67f852b1c099a5cb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "bf166d0ca25c547d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "f496f552c5197892",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "eb73707521ee401d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "8aefa0f34f1cec9b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "49e0a72fd15e014f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "05db9b7ed0e55d8c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "8059230db5f7d0b6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "0f6702cf0547d964",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "e9fb49424ba3c683",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "e76a783871fc2828",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "06b717330369cebd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "76f9ccb17fd51736",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "5f3d7e4928f42693",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "6a00950ae0314e9d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "8bfa0d7c820cef23",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "c700c9164629b338",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "a3ed9715081d2497",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "a27034a33910424f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "4ca526e7a051682a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "3d57e1717ca3c547",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "5f344016c6c190eb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "24699b5bb727d2ca",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "a912df22ced8f139",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "d7f532582d8f9f03",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "24df386802a7f34b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "5fb4468c2ee3e450",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "209a94076556b03f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "41a678d03fa6b606",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "c892972cd3caceeb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "4d6ce37234a165ec",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "19fc966b1462670e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "e259fc072b57c57b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -274,6 +754,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DevConcepts/Architecture/Vertical Sliced Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,17 +764,18 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Vertical Sliced Architecture"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 636.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -304,54 +786,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f69755efef9b9feb",
+  "active": "b545b0f160939c07",
   "lastOpenFiles": [
-    "Interview/Popular Questions.md",
-    "Interview/РБК Банк/Вопросы Python senior dev.md",
-    "Interview/РБК Банк/2024-11-18 РБК Банк.md",
-    "DevConcepts/Architecture/Design Principles/YAGNI.md",
-    "Dev/Python/Управление памятью и GC.md",
-    "Dev/Python/Threads, GIL and Race Condition.md",
-    "DevConcepts/Architecture/Tips and Tricks/Event bus.md",
-    "DevConcepts/Architecture/Tips and Tricks/Prefixing classes with ProjectName is bad.md",
-    "DevConcepts/Architecture/Tips and Tricks",
-    "DevConcepts/Architecture/Design Patterns/GOF/Классификация.md",
-    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Легковес.md",
-    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Адаптер.md",
-    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Компоновщик.md",
-    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Фасад.md",
-    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Мост.md",
-    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Декоратор.md",
-    "DevConcepts/Architecture/Design Patterns/Анти-паттерны/Soft Code.md",
-    "DevConcepts/Architecture/Design Patterns/Анти-паттерны/Big ball of mud.md",
-    "DevConcepts/Architecture/Design Patterns/GRASP/1. Information Expert.md",
-    "DevConcepts/Architecture/Design Patterns/GRASP/About.md",
-    "DevConcepts/Architecture/Design Patterns/GRASP/2. Creator.md",
-    "DevConcepts/Architecture/Design Patterns/GRASP/Attachments/Pasted image 20250312165613.png",
-    "DevConcepts/Architecture/Design Patterns/GRASP/Attachments/Pasted image 20250312163414.png",
-    "DevConcepts/Architecture/Design Patterns/GRASP/Attachments",
-    "DevConcepts/Architecture/Делегирование или Наследование.md",
-    "DevConcepts/Architecture/Tips and Tricks/Структура проектов.md",
-    "DevConcepts/Architecture/Заметки.md",
-    "DevConcepts/Architecture/UML - Unified Modeling Language.md",
-    "DevConcepts/Architecture/Tips and Tricks/It's ok to have domain model in each layer.md",
+    "DevConcepts/Eventual consistency can cause problem.md",
+    "Types of Taxanomi-Classifciation.md",
+    "Minio Recommendations.md",
+    "DevConcepts/Bearer tokens (JWT vs Opaque tokens).md",
+    "DevConcepts/Architecture/Design Principles/Простой Дизайн. Кент бек.md",
+    "DevConcepts/Architecture/Design Principles/Правило 3-го раза.md",
+    "DevConcepts/Architecture/Anemic Domain Model vs Rich Domain Model.md",
+    "DevConcepts/Architecture/Don’t Mock What You Don’t Own.md",
+    "DevConcepts/Architecture/Dual Write Problem. Solved.md",
+    "DevConcepts/Architecture/Finite State Machine.md",
     "DevConcepts/Architecture/Idempotency (POST vs PUT).md",
-    "DevConcepts/Architecture/Design Patterns/GOF",
-    "DevConcepts/Architecture/Design Patterns/GRASP",
-    "DevConcepts/Architecture/Design Patterns/Анти-паттерны",
-    "Interview/РБК Банк/Вопросы Python senior dev (1).pdf",
-    "Interview/Kolesa.kz",
-    "Interview/РБК Банк",
-    "DevConcepts/Databases/Attachments/Pasted image 20230927101535.png",
-    "DevConcepts/Databases/Attachments/Pasted image 20240628095019.png",
-    "Dev/Python/libs/standard",
-    "DevConcepts/Vulnerabilities",
-    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Attachments/Pasted image 20240618223617.png",
-    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Attachments/Pasted image 20240618221209.png",
-    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Attachments/Pasted image 20240618124018.png",
-    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Attachments/Pasted image 20240617183106.png",
-    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Attachments/Pasted image 20240617182703.png",
-    "DevConcepts/Architecture/Design Patterns/GOF/Структурные/Attachments/Pasted image 20240617164523.png",
+    "DevConcepts/Architecture/Responsibility Driven Design.md",
+    "DevConcepts/Architecture/UML - Unified Modeling Language.md",
+    "DevConcepts/Architecture/Vertical Sliced Architecture.md",
+    "DevConcepts/Architecture/Делегирование или Наследование.md",
+    "DevConcepts/Architecture/Заметки.md",
+    "DevConcepts/Architecture/Объекты vs Структуры данных.md",
+    "DevConcepts/Architecture/Плохой код.md",
+    "DevConcepts/Architecture/Преждевременная и излишняя абстрация корень многих проблем.md",
+    "DevConcepts/Architecture/Преждевременная оптимизация - корень всех проблем.md",
+    "DevConcepts/Architecture/Структура проектов.md",
+    "DevConcepts/Architecture/Управление сложностью.md",
+    "DevConcepts/Architecture/Хорошая архитектура.md",
+    "DevConcepts/CORS.md",
+    "DevConcepts/Data composition from multiple source (microservices).md",
+    "DevConcepts/OAuth2.0, OIDC, OpenId Connect.md",
+    "DevConcepts/Tests",
+    "Books/Attachments/Pasted image 20250425110250.png",
+    "Books/Attachments/Pasted image 20250425110127.png",
+    "Books/Attachments",
+    "DevConcepts/Architecture/API",
+    "DevConcepts/Architecture/Тесты/Attachments/Pasted image 20250421010400.png",
+    "DevConcepts/Architecture/Тесты/Attachments",
+    "DevConcepts/Architecture/Тесты",
+    "DevConcepts/Architecture/DDD",
+    "Books",
+    "DevConcepts/Architecture/Design Patterns/Анти-паттерны/Attachments/Pasted image 20250414111853.png",
+    "DevConcepts/Architecture/Design Patterns/Анти-паттерны/Attachments",
+    "DevConcepts/Architecture/Design Patterns/GRASP/Attachments/Pasted image 20250407110143.png",
+    "DevConcepts/Architecture/Design Principles/SOLID",
+    "DevConcepts/Architecture/OOP",
+    "DevConcepts/Architecture/Attachments/Pasted image 20250404094619.png",
+    "DevConcepts/Architecture/Design Patterns/GRASP/Attachments/Pasted image 20250403005139.png",
+    "DevConcepts/Architecture/Design Patterns/GRASP/Attachments/Pasted image 20250403005119.png",
+    "DevConcepts/Architecture/Design Patterns/GRASP/Attachments/Pasted image 20250403005056.png",
+    "DevConcepts/Architecture/Design Patterns/GRASP/Attachments/Pasted image 20250403002921.png",
     "Untitled.canvas"
   ]
 }

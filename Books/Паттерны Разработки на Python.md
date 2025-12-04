@@ -1,0 +1,2 @@
+- [[Big ball of mud]]
+- [[Responsibility Driven Design]]
